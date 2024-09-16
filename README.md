@@ -1,4 +1,4 @@
-![👋 Hi, my name is Waison Lee]((https://github.com/user-attachments/assets/5f8c0b93-dca3-4cbd-afbf-2eed6e91f272)
+![👋 Hi, my name is Waison Lee](https://github.com/user-attachments/assets/5f8c0b93-dca3-4cbd-afbf-2eed6e91f272)
 
 ![Profile views](https://komarev.com/ghpvc/?username=IOTdatabox&label=Profile%20views&color=0e75b6&style=flat)
 
